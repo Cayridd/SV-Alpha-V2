@@ -1,1 +1,1 @@
-// Match creation mock
+export default function MatchPage() {return <div>Match creation mock</div>;}

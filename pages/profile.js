@@ -1,1 +1,1 @@
-// Profile page mock
+export default function ProfilePage() {return <div>Profile page mock</div>;}
